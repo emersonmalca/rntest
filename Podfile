@@ -3,7 +3,7 @@ platform :ios, '8.0'
 use_frameworks!
 
 # The target name is most likely the name of your project.
-target ‘rntest’ do
+target ‘RNTest’ do
 
   # Your 'node_modules' directory is probably in the root of your project,
   # but if not, adjust the `:path` accordingly
